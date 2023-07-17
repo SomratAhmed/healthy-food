@@ -1,0 +1,48 @@
+body{
+    margin: 0;
+}
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 60px;
+
+}
+span{
+    color: rgb(235, 67, 6);
+}
+p{
+    font-size: 20px;
+
+}
+
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+}
+
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.half-width img{
+    width: 100%;
+    padding-top: 2%;
+
+}
+.top-banner{
+    background-image: linear-gradient(rgb(236, 224, 224), white);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+#skin-diet{
+    padding-top: 300px;
+    padding-left: 300px;
+}
